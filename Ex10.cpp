@@ -2,7 +2,7 @@
 Programming Skills Challenge - Siemens
 Exercise 3. The program calculates the length of a string informed by the user without 
 the use of any pre-existing function or method for this.
-For validation purpose, please go to: https://onlinegdb.com/3nN69ZmYG
+For validation purpose, please go to: https://onlinegdb.com/Uz9kqdqhT
 
 Criado em 01/03/2024 - 10:13pm
 Autora: Mariana Uzeda - mariana.uzeda@gmail.com
